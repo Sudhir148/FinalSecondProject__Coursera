@@ -1,0 +1,73 @@
+body{
+    margin: auto;
+}
+.header{
+    height:70px;
+    width:100%;
+}
+
+#brand{
+    font-size:30px;
+    color:white;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+#social{
+    float: left;
+    margin-left: 86%;
+    margin-top: -42px;
+}
+.socialImg{
+    height:50px
+}
+
+.homeBtn{
+    margin-top:1%;
+    margin-left:1%
+}
+.navbar-brand{
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 0.8%;
+    margin-left: 0%;font-family: 'Times New Roman', Times, serif;
+
+   
+}
+
+.navbar-form navbar-left{
+    margin-left:0% ; 
+    margin-top: 0.8%;
+}
+
+.btn-secondary{
+    margin-left: 2%;
+}
+
+
+
+.head1{
+    float: right; 
+    margin-top: -3.3%;
+    margin-right: 39%; 
+    font-size: 15px;
+     color: white;
+    
+}
+.head2{
+    float: right; 
+    margin-top: -3.3%;
+    margin-right: 29%; 
+    font-size: 15px;
+     color: white;
+    
+}
+.head3{
+    float: right; 
+    margin-top: -3.3%;
+    margin-right: 17%; 
+    font-size: 15px;
+     color: white;
+    
+}

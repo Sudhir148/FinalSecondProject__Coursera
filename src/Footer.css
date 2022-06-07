@@ -1,0 +1,103 @@
+.end1{
+    height: 600px;
+    width: 25%;
+    float: left;
+}
+.end2{
+    height: 600px;
+    width: 25%;
+    float: left;
+}
+
+.end3{
+    height: 600px;
+    width: 25%;
+    float: left;
+}
+
+.end4{
+    height: 600px;
+    width: 25%;
+    float: left;
+}
+.end11{
+    font-size: 20px;
+    font-weight: bold;
+}
+.end111{
+
+    font-size: 16px;
+    margin-left:30%;
+    
+}
+.end222{
+
+    font-size: 16px;
+    margin-left:30%;
+    
+}
+.end333{
+
+    font-size: 16px;
+    margin-left:30%;
+    
+}
+.end444{
+
+    font-size: 14px;
+    
+}
+.end12{
+   
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5%;
+    margin-left:30%;
+}
+.foot{
+    height: 140px;
+    width: 100%;
+    background-color: #f5f5f5;
+}
+.foot1{
+    font-size:16px ;
+    margin-left: 7%;
+   
+}
+.fa {
+    padding: 8px;
+    font-size: 20px;
+    width: 35px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: black;
+    color: white;
+    border-radius: 50%;
+   
+  }
+  .fa-twitter {
+    background: black;
+    color: white;
+    border-radius: 50%;
+  }
+  .fa-instagram {
+    background: black;
+    color: white;
+    border-radius: 50%;
+  }
+  .fa-youtube{
+    background: black;
+    color: white;
+    border-radius: 50%;
+  }
+  .fa-linkedin {
+    background: black;
+    color: white;
+    border-radius: 50%;
+  }
